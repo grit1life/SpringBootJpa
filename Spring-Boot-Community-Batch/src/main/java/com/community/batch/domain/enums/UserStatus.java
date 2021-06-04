@@ -5,6 +5,6 @@ import lombok.Getter;
 
 public enum UserStatus {
 
-	Active, INACTIVE
+	ACTIVE, INACTIVE
 	
 }
